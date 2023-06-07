@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/NurPro.github.io/hw24/static/css/main.dd8f0a04.css",
+    "main.js": "/NurPro.github.io/hw24/static/js/main.b77ef8d8.js",
+    "static/media/foodPhoto.png": "/NurPro.github.io/hw24/static/media/foodPhoto.1869efe11eed99b0f914.png",
+    "static/media/Group.svg": "/NurPro.github.io/hw24/static/media/Group.b8d33e94afa151b65893c6647ec288c8.svg",
+    "index.html": "/NurPro.github.io/hw24/index.html",
+    "static/media/plusAdd.svg": "/NurPro.github.io/hw24/static/media/plusAdd.b8a001afefc325562f9c1143fc9f21cd.svg",
+    "static/media/plus.svg": "/NurPro.github.io/hw24/static/media/plus.5e2025a96ba73c4c7c15f2ed65f9ccd4.svg",
+    "static/media/minus.svg": "/NurPro.github.io/hw24/static/media/minus.c485e6fde4d19ac2fd0cec0d4c7d72fa.svg",
+    "main.dd8f0a04.css.map": "/NurPro.github.io/hw24/static/css/main.dd8f0a04.css.map",
+    "main.b77ef8d8.js.map": "/NurPro.github.io/hw24/static/js/main.b77ef8d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd8f0a04.css",
+    "static/js/main.b77ef8d8.js"
+  ]
+}
